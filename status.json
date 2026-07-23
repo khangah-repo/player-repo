@@ -9,8 +9,8 @@
     "status" : {
         "adsEnable" : false,
         "adsWebUrls" : ["aHR0cHM6Ly9kdWNrZHVja2dvLmNvbS8="],
-        "maxVerSubtitleWebsite" : "0.0.0",
-        "maxVerContentWebsite" : "0.0.0",
+        "maxVerSubtitleWebsite" : "1.0.0",
+        "maxVerContentWebsite" : "1.0.0",
         "subtitleWebsiteList" : [
             {
                 "title" : "U3ViIEYyTQ==",
