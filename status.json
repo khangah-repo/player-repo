@@ -1,0 +1,27 @@
+{
+    "updateCheck" : {
+        "android": {
+            "verMin": "0.0.0",
+            "verCurrent": "1.0.0",
+            "updateStore": ["https://play.google.com/store/apps/details?id="]
+        }
+    },
+    "status" : {
+        "adsEnable" : false,
+        "adsWebUrls" : ["aHR0cHM6Ly9kdWNrZHVja2dvLmNvbS8="],
+        "maxVerSubtitleWebsite" : "0.0.0",
+        "maxVerContentWebsite" : "0.0.0",
+        "subtitleWebsiteList" : [
+            {
+                "title" : "U3ViIEYyTQ==",
+                "url" : "aHR0cHM6Ly9zdWJmMm0uY28v"
+            }
+        ],
+        "contentWebsiteList" : [
+            {
+                "title" : "RmlsbTJNZWRpYQ==",
+                "url" : "aHR0cHM6Ly93d3cubWVlcmVlbi50b3Av"
+            }
+        ]
+    }
+}
