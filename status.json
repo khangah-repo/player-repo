@@ -1,27 +1,57 @@
 {
-    "updateCheck" : {
-        "android": {
-            "verMin": "0.0.0",
-            "verCurrent": "1.0.0",
-            "updateStore": ["https://play.google.com/store/apps/details?id="]
-        }
-    },
-    "status" : {
-        "adsEnable" : false,
-        "adsWebUrls" : ["aHR0cHM6Ly9kdWNrZHVja2dvLmNvbS8="],
-        "maxVerSubtitleWebsite" : "0.0.0",
-        "maxVerContentWebsite" : "0.0.0",
-        "subtitleWebsiteList" : [
-            {
-                "title" : "U3ViIEYyTQ==",
-                "url" : "aHR0cHM6Ly9zdWJmMm0uY28v"
-            }
-        ],
-        "contentWebsiteList" : [
-            {
-                "title" : "RmlsbTJNZWRpYQ==",
-                "url" : "aHR0cHM6Ly93d3cubWVlcmVlbi50b3Av"
-            }
-        ]
+  "updateCheck": {
+    "android": {
+      "verMin": "0.0.0",
+      "verCurrent": "1.0.0",
+      "updateStore": [
+        "https://play.google.com/store/apps/details?id="
+      ]
     }
+  },
+  "status": {
+    "adsEnable": false,
+    "adsWebUrls": [],
+    "maxVerSubtitleWebsite": "1.0.0",
+    "maxVerContentWebsite": "1.0.0",
+    "subtitleWebsiteList": [
+      {
+        "title": "U3ViIEYyTQ==",
+        "url": "aHR0cHM6Ly9zdWJmMm0uY28v"
+      },
+      {
+        "title": "U3ViIFNvdXJjZQ==",
+        "url": "aHR0cHM6Ly9zdWJzb3VyY2UubmV0Lw=="
+      },
+      {
+        "title": "U3VidGl0bGUgU3Rhcg==",
+        "url": "aHR0cHM6Ly9zdWJ0aXRsZXN0YXIuY29t"
+      },
+      {
+        "title": "U3ViIFBsdXM=",
+        "url": "aHR0cHM6Ly9zdWItcGx1cy5pci8="
+      },
+      {
+        "title": "U3Via2FkZQ==",
+        "url": "aHR0cHM6Ly9zdWJrYWRlLmlyLw=="
+      }
+    ],
+    "contentWebsiteList": [
+      {
+        "title": "RmlsbTJNZWRpYQ==",
+        "url": "aHR0cHM6Ly93d3cubWVlcmVlbi50b3Av"
+      },
+      {
+        "title": "QW5pbWV4",
+        "url": "aHR0cHM6Ly9hbmltZXgucHJvLw=="
+      },
+      {
+        "title": "QmFua21vdmll",
+        "url": "aHR0cHM6Ly9iYW5rbW92aWUudG9wLw=="
+      },
+      {
+        "title": "RG9vc3RpaGFh",
+        "url": "aHR0cHM6Ly93d3cuZG9vc3RpaGFhLmNvbS8="
+      }
+    ]
+  }
 }
