@@ -2,7 +2,7 @@
   "updateCheck": {
     "android": {
       "verMin": "1.0.0",
-      "verCurrent": "1.0.0",
+      "verCurrent": "1.0.1",
       "updateStore": [
         "aHR0cHM6Ly9teWtldC5pci9hcHAvY29tLmtoYW5nYWgucGxheWVy",
         "aHR0cHM6Ly9jYWZlYmF6YWFyLmlyL2FwcC9jb20ua2hhbmdhaC5wbGF5ZXI="
@@ -12,8 +12,8 @@
   "status": {
     "adsEnable": false,
     "adsWebUrls": [],
-    "maxVerSubtitleWebsite": "1.0.0",
-    "maxVerContentWebsite": "1.0.0",
+    "maxVerSubtitleWebsite": "1.0.1",
+    "maxVerContentWebsite": "1.0.1",
     "subtitleWebsiteList": [
       {
         "title": "U3ViIEYyTQ==",
