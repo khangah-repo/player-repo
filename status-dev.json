@@ -1,7 +1,7 @@
 {
   "updateCheck": {
     "android": {
-      "verMin": "1.0.0",
+      "verMin": "1.0.1",
       "verCurrent": "1.0.1",
       "updateStore": [
         "aHR0cHM6Ly9teWtldC5pci9hcHAvY29tLmtoYW5nYWgucGxheWVy",
